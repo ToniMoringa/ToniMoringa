@@ -28,11 +28,6 @@ I’m the person who writes **clean code** just so I have more time to animate a
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[ToniMoringa]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ToniMoringa]&layout=compact&theme=radical)
-
 ---
 
 ## 📬 Let's Connect
