@@ -1,6 +1,7 @@
 <!-- Frutiger Aero Animated Header -->
 <div align="center">
-  <img src="assets/github-haeder.gif" alt="Toni Moringa - Full Stack Developer" width="900"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1694ec,100:daf9fa&height=220&section=header&text=Toni%20Moringa&fontSize=64&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=HTML%20•%20CSS%20•%20JavaScript%20•%20React&descAlignY=65&descSize=18&descColor=0d8ecf"/>
+</div>
   
 ---
 
