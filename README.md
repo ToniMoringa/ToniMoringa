@@ -25,3 +25,31 @@
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-link)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=about.me&logoColor=white)](your-link)
+
+<svg width="1500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aero" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7DD3FC;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3B82F6;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glass">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+    </filter>
+  </defs>
+  
+  <!-- Glossy background -->
+  <rect width="1500" height="500" fill="url(#aero)" rx="20"/>
+  <ellipse cx="300" cy="150" rx="200" ry="80" fill="white" opacity="0.3" filter="url(#glass)"/>
+  
+  <!-- Text -->
+  <text x="50" y="200" font-family="Segoe UI, sans-serif" font-size="72" fill="white" font-weight="bold">
+    Toni Moringa
+  </text>
+  <text x="50" y="260" font-family="Segoe UI, sans-serif" font-size="32" fill="#E0F2FE">
+    Full-Stack Developer | HTML • CSS • JavaScript
+  </text>
+  
+  <!-- Frutiger Aero bubbles -->
+  <circle cx="1200" cy="100" r="60" fill="white" opacity="0.2"/>
+  <circle cx="1300" cy="200" r="40" fill="white" opacity="0.3"/>
+</svg>
