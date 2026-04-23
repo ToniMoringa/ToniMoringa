@@ -1,11 +1,7 @@
 <!-- Frutiger Aero Animated Header -->
 <div align="center">
-  <img src="assets/header.gif" alt="Toni Moringa - Full Stack Developer" width="900"/>
+  <img src="assets/github-haeder.gif" alt="Toni Moringa - Full Stack Developer" width="900"/>
   
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=ToniMoringa&label=Profile%20Views&color=1694ec&style=for-the-badge&logo=github" alt="Profile Views"/>
-</div>
-
 ---
 
 #  Hi, I'm Toni Muthwa  
@@ -93,7 +89,11 @@
 </div>
 
 ---
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=ToniMoringa&label=Profile%20Views&color=1694ec&style=for-the-badge&logo=github" alt="Profile Views"/>
+</div>
 
+---
 <div align="center">
   <sub><i>"千里之行，始于足下 — A journey of a thousand miles begins with a single step"</i></sub>
   <br/><sub><i>— Lao Tzu (老子)</i></sub>
