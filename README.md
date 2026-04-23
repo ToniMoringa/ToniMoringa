@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Toni Muthwa  
+#  Hi, I'm Toni Muthwa  
 ### Full-Stack Developer in Training | HTML • CSS • JavaScript • [React Soon 🚀]
 
 > I build clean, high-performance web experiences — with a side of creative animation.
