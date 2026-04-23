@@ -99,3 +99,7 @@
   <sub><i>"千里之行，始于足下 — A journey of a thousand miles begins with a single step"</i></sub>
   <br/><sub><i>— Lao Tzu (老子)</i></sub>
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:daf9fa,50:1694ec,100:daf9fa&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=45&fontColor=1694ec&desc=Let's%20build%20something%20amazing%20together&descAlignY=70&descSize=14&descColor=0d8ecf"/>
+</div>
