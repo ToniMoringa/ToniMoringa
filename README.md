@@ -1,9 +1,9 @@
-<!-- Animated Frutiger Aero Header -->
+<!-- Frutiger Aero Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Syncopate&size=50&duration=3000&color=00A8E8&center=true&vCenter=true&width=900&height=120&lines=Toni+Moringa;Full-Stack+Developer;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+React&pause=1000" alt="Animated Header"/>
+  <img src="assets/header.gif" alt="Toni Moringa - Full Stack Developer" width="900"/>
   
-  <!-- Profile Views with Frutiger color -->
-  <img src="https://komarev.com/ghpvc/?username=ToniMoringa&label=Profile%20Views&color=00A8E8&style=for-the-badge&logo=github" alt="Profile Views"/>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=ToniMoringa&label=Profile%20Views&color=1694ec&style=for-the-badge&logo=github" alt="Profile Views"/>
 </div>
 
 ---
@@ -18,12 +18,12 @@
 ##  Tech Stack --current && --roadmap
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoSize=auto" alt="Git"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&logoSize=auto" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </div>
 
 ---
@@ -53,12 +53,16 @@
 ##  Git Log --Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToniMoringa&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=00A8E8&text_color=374151&bg_color=FFFFFF,7DD3FC,3B82F6" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ToniMoringa&show_icons=true&theme=default&hide_border=true&title_color=00A8E8&icon_color=34D399&text_color=374151&bg_color=FFFFFF,7DD3FC,3B82F6" alt="GitHub Stats" height="160"/>
+  <!-- Top Languages - Frutiger Aero Colors -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToniMoringa&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=1694ec&text_color=2d3748&bg_color=daf9fa,ffffff" alt="Top Languages" height="165"/>
+  
+  <!-- GitHub Stats - Frutiger Aero Colors -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ToniMoringa&show_icons=true&theme=default&hide_border=true&title_color=1694ec&icon_color=1694ec&text_color=2d3748&bg_color=daf9fa,ffffff&count_private=true" alt="GitHub Stats" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToniMoringa&theme=default&hide_border=true&dates=00A8E8&ring=34D399&currStreakLabel=00A8E8" alt="Streak Stats" height="160"/>
+  <!-- Streak Stats - Frutiger Aero Colors -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToniMoringa&theme=soft-green&hide_border=true&dates=1694ec&ring=1694ec&currStreakLabel=1694ec&sideLabels=2d3748&sideNums=1694ec&background=daf9fa" alt="Streak Stats" height="165"/>
 </div>
 
 ---
@@ -66,7 +70,7 @@
 ##  Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToniMoringa&bg_color=FFFFFF&color=3B82F6&line=7DD3FC&point=00A8E8&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToniMoringa&bg_color=daf9fa&color=1694ec&line=1694ec&point=0d8ecf&area=true&hide_border=true&area_color=ffffff" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -91,5 +95,6 @@
 ---
 
 <div align="center">
-  <sub><i>"Every expert was once a beginner. Every pro was once an amateur."</i></sub>
+  <sub><i>"千里之行，始于足下 — A journey of a thousand miles begins with a single step"</i></sub>
+  <br/><sub><i>— Lao Tzu (老子)</i></sub>
 </div>
