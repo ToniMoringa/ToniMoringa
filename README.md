@@ -1,36 +1,27 @@
-# Hi, I'm Toni Muthwa  
+# 👋 Hi, I'm Toni Muthwa  
+### Full-Stack Developer in Training | HTML • CSS • JavaScript • [React Soon 🚀]
 
-### Creative Technologist | Animator | Illustrator
-I’m the person who writes **clean code** just so I have more time to animate and draw. I translate creative chaos into functional software, winding down on weekends by gaming or knitting. I build high-performance digital experiences and occasionally breathe life into 2D/3D characters.
+> I build clean, high-performance web experiences — with a side of creative animation.
 
----
+## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) *Learning*
 
-## 🎨 Creative Studio
-*When I'm not in VS Code, I'm usually in the timeline.*
+## 🚀 Featured Projects
+| Project | Description | Tech | Live Demo |
+|---------|-------------|------|-----------|
+| [Personal Website](link) | Responsive portfolio with CSS animations | HTML, CSS, JS | [🔗](your-link) |
+| [JS Calculator](link) | CLI-style calculator with history tracking | JavaScript | [🔗](your-link) |
+| [ASCII Terminal](link) | Custom PowerShell/WSL welcome art | Shell, JS | [🔗](your-link) |
 
-- **Specialties:** 2D Animation, UI/UX Motion, Character Design.
-- **Tools:** After Effects, Blender, Procreate, Spine.
-- **Gaming:** Resident Evil, Detroit Become Human, and probably over-analyzing UI layouts.
-
----
-
-## 🛠️ The Toolkit
-
-### 💻 Engineering
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-
-### 🖋️ Design & Animation
-![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Maya](https://img.shields.io/badge/-Maya-0696D7?style=flat-square&logo=autodesk-maya&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
----
+## 📈 Currently Learning
+- ⚛️ React fundamentals (getting ahead!)
+- 🎨 UI/UX principles for developer-designer handoff
+- 🧪 Typescript
 
 ## 📬 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/toni-muthwa-0214ab3ba/)
-- [ArtStation/Portfolio](Your-Link)
-- [Instagram](https://www.instagram.com/tonton_co)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=about.me&logoColor=white)](your-link)
