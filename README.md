@@ -29,9 +29,9 @@
   
 | Project | Description | Tech | Live Demo |
 |---------|-------------|------|-----------|
-| **[Personal Website](link)** | Responsive portfolio with CSS animations | HTML, CSS, JS | [🔗](your-link) |
-| **[JS Calculator](link)** | CLI-style calculator with history tracking | JavaScript | [🔗](your-link) |
-| **[ASCII Terminal](link)** | Custom PowerShell/WSL welcome art | Shell, JS | [🔗](your-link) |
+| **[Personal Website](link)** | Responsive portfolio with CSS animations | HTML, CSS, JS | https://tonimoringa.github.io/Lab-Part-2-Personal-Website-with-HTML-and-CSS/ |
+| **[JS Calculator](link)** | CLI-style calculator with history tracking | JavaScript |https://tonimoringa.github.io/Lab-Part-1-JavaScript-Calculator/|
+| **[WORDLY SPA ](link)** | SPA dictionary app | Html,CSS, JS |https://spawordlytonimoringa.vercel.app/|
 
 </div>
 
