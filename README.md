@@ -101,5 +101,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:daf9fa,50:1694ec,100:daf9fa&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=45&fontColor=1694ec&desc=Let's%20build%20something%20amazing%20together&descAlignY=70&descSize=14&descColor=0d8ecf"/>
+  <img src="https://capsule-render.vercel.app/api?type=blade&color=0:1694ec,100:daf9fa&height=90&section=footer&text=Toni%20Moringa%20%C2%A9%202026&fontSize=18&fontAlignY=50&fontColor=ffffff&animation=fadeIn"/>
 </div>
