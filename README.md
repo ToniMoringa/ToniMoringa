@@ -1,11 +1,6 @@
 <!-- Frutiger Aero Animated Header -->
 <div align="center">
   <img src="assets/header.gif" alt="Toni Moringa - Full Stack Developer" width="900"/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1694ec,100:daf9fa&height=220&section=header&text=Toni%20Moringa&fontSize=64&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=HTML%20•%20CSS%20•%20JavaScript%20•%20React&descAlignY=65&descSize=18&descColor=0d8ecf"/>
-</div>
-  
 ---
 
 #  Hi, I'm Toni Muthwa  
@@ -104,5 +99,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1694ec,100:daf9fa&height=100&section=footer&text=千里之行，始于足下&fontSize=18&fontAlignY=50&animation=fadeIn&fontColor=ffffff&desc=A%20journey%20of%20a%20thousand%20miles%20begins%20with%20a%20single%20step&descAlignY=75&descSize=14&descColor=0d8ecf"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1694ec,100:daf9fa&height=100&section=footer&animation=fadeIn"/>
 </div>
