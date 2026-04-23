@@ -1,6 +1,6 @@
 <!-- Frutiger Aero Animated Header -->
 <div align="center">
-  <img src="assets/header.gif" alt="Toni Moringa - Full Stack Developer" width="900"/>
+  <img src="assets/haeder.gif" alt="Toni Moringa - Full Stack Developer" width="900"/>
 ---
 
 #  Hi, I'm Toni Muthwa  
