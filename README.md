@@ -29,9 +29,9 @@
   
 | Project | Description | Tech | Live Demo |
 |---------|-------------|------|-----------|
-| **[Personal Website](link)*https://github.com/ToniMoringa/Lab-Part-2-Personal-Website-with-HTML-and-CSS* | Responsive portfolio with CSS animations | HTML, CSS, JS | https://tonimoringa.github.io/Lab-Part-2-Personal-Website-with-HTML-and-CSS/ |
-| **[JS Calculator](link)*https://github.com/ToniMoringa/Lab-Part-1-JavaScript-Calculator* | CLI-style calculator with history tracking | JavaScript |https://tonimoringa.github.io/Lab-Part-1-JavaScript-Calculator/|
-| **[WORDLY SPA ](link)*https://github.com/ToniMoringa/spa_wordly_tonimoringa* | SPA dictionary app | Html,CSS, JS |https://spawordlytonimoringa.vercel.app/|
+| **[Personal Website](https://github.com/ToniMoringa/Lab-Part-2-Personal-Website-with-HTML-and-CSS)** | Responsive portfolio with CSS animations | HTML, CSS, JS | https://tonimoringa.github.io/Lab-Part-2-Personal-Website-with-HTML-and-CSS/ |
+| **[JS Calculator](https://github.com/ToniMoringa/Lab-Part-1-JavaScript-Calculator)** | CLI-style calculator with history tracking | JavaScript |https://tonimoringa.github.io/Lab-Part-1-JavaScript-Calculator/|
+| **[WORDLY SPA ](https://github.com/ToniMoringa/spa_wordly_tonimoringa)** | SPA dictionary app | Html,CSS, JS |https://spawordlytonimoringa.vercel.app/|
 
 </div>
 
